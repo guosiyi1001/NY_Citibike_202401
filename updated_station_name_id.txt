@@ -1,0 +1,90 @@
+station_name	station_id
+Morris Canal	66ddd78e-0aca-11e7-82f6-3863bb44ef7c
+JC Medical Center	e163ce54-4c39-43c5-9831-e10a2603527d
+Church Sq Park - 5 St & Park Ave	43318169-d1ae-4a1a-9578-23cfa3fdbac9
+Riverview Park	66dd630c-0aca-11e7-82f6-3863bb44ef7c
+Jersey & 3rd	66ddda59-0aca-11e7-82f6-3863bb44ef7c
+Hamilton Park	66dd7b37-0aca-11e7-82f6-3863bb44ef7c
+York St & Marin Blvd	22cd02a2-228f-4eeb-b249-cbea51a0e219
+14 St Ferry - 14 St & Shipyard Ln	4a48175b-c239-4d5e-b1b8-03eda4239678
+Bergen Ave & Sip Ave	581211b2-4e42-48f2-8a8f-5f968cb1c5df
+Astor Place	66ddded0-0aca-11e7-82f6-3863bb44ef7c
+McGinley Square	66dd6000-0aca-11e7-82f6-3863bb44ef7c
+Fairmount Ave	5aa81a37-ea1d-4bf6-ab40-4751c6b4fb08
+Exchange Pl	3742e2ab-6cd0-40cf-846a-72cbe637afe1
+Baldwin at Montgomery	66dd9183-0aca-11e7-82f6-3863bb44ef7c
+Warren St	66dd5a42-0aca-11e7-82f6-3863bb44ef7c
+Stevens - River Ter & 6 St	4aecd6f2-8a84-4bed-a528-dc6870877292
+City Hall - Washington St & 1 St	537a2f47-26a3-4776-ba9d-e2acd2ffbee1
+Adams St & 2 St	3371df76-39db-43ab-b3d6-fac0be55311f
+Communipaw & Berry Lane	66dddd28-0aca-11e7-82f6-3863bb44ef7c
+Grove St PATH	2290031f-e7d8-40a3-9ad6-566df493bbbc
+Van Vorst Park	66dd83fc-0aca-11e7-82f6-3863bb44ef7c
+Manila & 1st	66dddae7-0aca-11e7-82f6-3863bb44ef7c
+Hoboken Ave at Monmouth St	5faf99b8-9046-450f-9d2a-d13279b3d016
+Christ Hospital	66dd836d-0aca-11e7-82f6-3863bb44ef7c
+Madison St & 1 St	c32d6965-4fae-4f1f-a5f2-7f2ef5f439fc
+South Waterfront Walkway - Sinatra Dr & 1 St	0bb12c94-efdb-40ac-98fe-9521ba373b57
+Newport Pkwy	66dd6441-0aca-11e7-82f6-3863bb44ef7c
+Newark Ave	66dd80ac-0aca-11e7-82f6-3863bb44ef7c
+Marin Light Rail	66dddc98-0aca-11e7-82f6-3863bb44ef7c
+Adams St & 12 St	1849747691035224144
+Grand St	a59f4f11-5d52-43a2-8a32-ae71137a6af8
+Hilltop	66dd7cab-0aca-11e7-82f6-3863bb44ef7c
+Monmouth and 6th	66ddddb4-0aca-11e7-82f6-3863bb44ef7c
+Union St	66dd5e69-0aca-11e7-82f6-3863bb44ef7c
+4 St & Grand St	3d1db3fa-1df5-46c8-baf3-619b729f5bda
+Columbus Drive	66dddc08-0aca-11e7-82f6-3863bb44ef7c
+Lafayette Park	66ddd81a-0aca-11e7-82f6-3863bb44ef7c
+Harborside	2de92329-48d0-4cf7-85df-172f91bbb320
+Hoboken Terminal - River St & Hudson Pl	0b56ffe7-056e-43ef-a0ac-9e1790f02f3d
+Glenwood Ave	915057d4-edbc-4c73-8d81-dda33d600d58
+2 St & Park Ave	b6a13f2b-deb4-4f4d-9d67-7d23bee27c88
+Bergen Ave & Stegman St	33a797e8-6be2-4868-b9f6-1be157eaa0a5
+Madison St & 10 St	e385c162-6a1a-4e7a-90c1-45d5b6fa1195
+Liberty Light Rail	66dd5f24-0aca-11e7-82f6-3863bb44ef7c
+Pershing Field	66dd8043-0aca-11e7-82f6-3863bb44ef7c
+Heights Elevator	66dd63de-0aca-11e7-82f6-3863bb44ef7c
+Journal Square	dd8b2f53-8b94-4082-9576-994a4962f9d5
+Grant Ave & MLK Dr	ccfa1f8f-f930-45f2-9cda-375c01596ca2
+Brunswick & 6th	66ddd8a8-0aca-11e7-82f6-3863bb44ef7c
+River St & 1 St	1844599666569400604
+Grand St & 14 St	823c0615-2832-4e76-85f0-7cf527151aba
+7 St & Monroe St	7478be11-37d8-49b1-a253-f0810045f6ff
+6 St & Grand St	9d344652-976b-4c2d-bede-2ef19b0fbf13
+Mama Johnson Field - 4 St & Jackson St	ded4386f-9f69-43c6-a566-4511920c3e39
+Brunswick St	66dd7fe2-0aca-11e7-82f6-3863bb44ef7c
+Leonard Gordon Park	66dddf5f-0aca-11e7-82f6-3863bb44ef7c
+Dey St	66dd650d-0aca-11e7-82f6-3863bb44ef7c
+Greenwich St & Hubert St	66de867e-0aca-11e7-82f6-3863bb44ef7c
+Willow Ave & 12 St	655b0878-c22b-4f8c-8675-21bf30d1eebf
+Jackson Square	1ec24ce3-2b69-4f3a-a153-c73e583d11f3
+Clinton St & Newark St	8ae0bf30-9979-461e-a947-2dd89f293b40
+Bloomfield St & 15 St	d09709d2-e119-48c4-aa22-29432a13a35a
+Southpoint Park	ad17bd9a-735b-4a11-8ad3-dc7800e342af
+Hoboken Terminal - Hudson St & Hudson Pl	cbc48689-7805-49dd-9669-5471f4b7b6fb
+Clinton St & 7 St	21c4a77d-b1ae-4262-b143-087fd14a07b8
+Southwest Park - Jackson St & Observer Hwy	5f798c51-5d8b-4add-9f81-341f54a82ffa
+Columbus Park - Clinton St & 9 St	fadf00cf-d84a-49e8-9607-c67154915412
+Newport PATH	66dd6721-0aca-11e7-82f6-3863bb44ef7c
+9 St HBLR - Jackson St & 8 St	681a8bdb-65ff-4078-a5de-74927502da4e
+Broadway & W 41 St	66dc292c-0aca-11e7-82f6-3863bb44ef7c
+Jersey & 6th St	66ddd93e-0aca-11e7-82f6-3863bb44ef7c
+Lincoln Park	66dd5f99-0aca-11e7-82f6-3863bb44ef7c
+Bergen Ave	e2c00264-9eea-446d-a1b7-27cef3aed403
+5 Corners Library	66dd8b48-0aca-11e7-82f6-3863bb44ef7c
+Washington St	f841ae52-0bbb-49db-b6eb-f898fbce6108
+8 St & Washington St	519824e4-69ba-4270-a395-17c204f328f8
+4 St & River St	1839334257267825432
+11 St & Washington St	f417d8da-0f15-49b0-9e3c-3c3e55c2691d
+City Hall	66dd5960-0aca-11e7-82f6-3863bb44ef7c
+Motorgate	88bf1344-354f-4699-bdbd-1c2584fc41ee
+Montgomery St	6107e75a-2493-4e3d-a3e0-d4886d3416e5
+Dixon Mills	66ddde40-0aca-11e7-82f6-3863bb44ef7c
+Essex Light Rail	66dd8479-0aca-11e7-82f6-3863bb44ef7c
+12 St & Sinatra Dr N	bd6f422b-d7ae-4d7e-9261-653fdd8e6888
+Oakland Ave	66dd7f10-0aca-11e7-82f6-3863bb44ef7c
+Roosevelt Island Tramway	b47e5ffd-4215-4476-a89b-ebe52111f763
+Paulus Hook	66dd58f2-0aca-11e7-82f6-3863bb44ef7c
+S 3 St & Bedford Ave	66dc4599-0aca-11e7-82f6-3863bb44ef7c
+Marshall St & 2 St	46813ecf-8df4-4c8f-9579-0179e0b36ba6
